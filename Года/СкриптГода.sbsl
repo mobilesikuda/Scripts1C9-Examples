@@ -1,0 +1,24 @@
+
+method Скрипт()
+    
+    for y = 1900 to 2100
+        if isLeap(y)
+            Console.Write(y)
+        ;
+    ;    
+;
+
+method isLeap(year: Number): Boolean
+    case True
+    when year % 400 == 0
+        return True
+
+    when year % 100 == 0
+        return False
+
+    when year % 4 == 0
+        return True
+    else
+        return False
+    ;
+;
