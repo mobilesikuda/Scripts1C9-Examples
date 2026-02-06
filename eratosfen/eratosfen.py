@@ -1,6 +1,6 @@
 import time
  
-n = 50000000;
+n = 20000000;
 array = []
 array.insert(0, 0)
 array.insert(1, 0)

@@ -2,7 +2,7 @@
 //$n = 50000000
 ini_set("memory_limit", -1);
 
-$n = 10000000;
+$n = 20000000;
 $array = array();
 $array[0] = 0;
 $array[1] = 0;
