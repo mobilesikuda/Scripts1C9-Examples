@@ -1,0 +1,5 @@
+java(openjdk 17.0.10) - 1.021
+php(8.4.4) eratosfen.php - 5.5108
+python(3.13.4) eratosfen.py - 7.214
+executor(10.0.4) - 11.282
+oscript(1.9.4.19) eratosfen.os - 19.823
